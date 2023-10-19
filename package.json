@@ -1,6 +1,6 @@
 {
   "name": "react-native-threads",
-  "version": "0.0.19",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -27,6 +27,6 @@
     "index.js"
   ],
   "peerDependencies": {
-    "react-native": ">=0.50.0"
+    "react-native": ">=0.68.7"
   }
 }
