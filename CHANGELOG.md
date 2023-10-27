@@ -1,7 +1,11 @@
 # Changelog
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com).
- 
+
+## 1.0.1 - 2023-10-27
+### Fixed
+- iOS podspec not included in npm package
+
 ## 1.0.0 - 2023-10-19
 ### Changed
 - **BREAKING**
