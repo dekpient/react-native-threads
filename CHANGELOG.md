@@ -2,6 +2,10 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com).
 
+## 1.0.2 - 2023-10-30
+### Fixed
+- Wrong path to package.json file in podspec
+
 ## 1.0.1 - 2023-10-27
 ### Fixed
 - iOS podspec not included in npm package
